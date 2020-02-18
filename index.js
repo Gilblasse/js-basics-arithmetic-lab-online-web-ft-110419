@@ -4,4 +4,4 @@ const multiply = var1 * var2;
 
 const random = Math.floor(Math.random() * 10);
 const mod = 53 % 7
-let max = [3,4,5,20,1].max
+let max = Math.max(3,4,5,20,1)
